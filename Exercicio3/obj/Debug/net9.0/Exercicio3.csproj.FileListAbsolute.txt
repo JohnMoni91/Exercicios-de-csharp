@@ -1,0 +1,14 @@
+S:\ex3\Exercicio3\bin\Debug\net9.0\Exercicio3.exe
+S:\ex3\Exercicio3\bin\Debug\net9.0\Exercicio3.deps.json
+S:\ex3\Exercicio3\bin\Debug\net9.0\Exercicio3.runtimeconfig.json
+S:\ex3\Exercicio3\bin\Debug\net9.0\Exercicio3.dll
+S:\ex3\Exercicio3\bin\Debug\net9.0\Exercicio3.pdb
+S:\ex3\Exercicio3\obj\Debug\net9.0\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+S:\ex3\Exercicio3\obj\Debug\net9.0\Exercicio3.AssemblyInfoInputs.cache
+S:\ex3\Exercicio3\obj\Debug\net9.0\Exercicio3.AssemblyInfo.cs
+S:\ex3\Exercicio3\obj\Debug\net9.0\Exercicio3.csproj.CoreCompileInputs.cache
+S:\ex3\Exercicio3\obj\Debug\net9.0\Exercicio3.dll
+S:\ex3\Exercicio3\obj\Debug\net9.0\refint\Exercicio3.dll
+S:\ex3\Exercicio3\obj\Debug\net9.0\Exercicio3.pdb
+S:\ex3\Exercicio3\obj\Debug\net9.0\Exercicio3.genruntimeconfig.cache
+S:\ex3\Exercicio3\obj\Debug\net9.0\ref\Exercicio3.dll
