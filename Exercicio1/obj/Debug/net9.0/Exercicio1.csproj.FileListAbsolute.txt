@@ -1,0 +1,14 @@
+S:\ex1\Exercicio1\bin\Debug\net9.0\Exercicio1.exe
+S:\ex1\Exercicio1\bin\Debug\net9.0\Exercicio1.deps.json
+S:\ex1\Exercicio1\bin\Debug\net9.0\Exercicio1.runtimeconfig.json
+S:\ex1\Exercicio1\bin\Debug\net9.0\Exercicio1.dll
+S:\ex1\Exercicio1\bin\Debug\net9.0\Exercicio1.pdb
+S:\ex1\Exercicio1\obj\Debug\net9.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+S:\ex1\Exercicio1\obj\Debug\net9.0\Exercicio1.AssemblyInfoInputs.cache
+S:\ex1\Exercicio1\obj\Debug\net9.0\Exercicio1.AssemblyInfo.cs
+S:\ex1\Exercicio1\obj\Debug\net9.0\Exercicio1.csproj.CoreCompileInputs.cache
+S:\ex1\Exercicio1\obj\Debug\net9.0\Exercicio1.dll
+S:\ex1\Exercicio1\obj\Debug\net9.0\refint\Exercicio1.dll
+S:\ex1\Exercicio1\obj\Debug\net9.0\Exercicio1.pdb
+S:\ex1\Exercicio1\obj\Debug\net9.0\Exercicio1.genruntimeconfig.cache
+S:\ex1\Exercicio1\obj\Debug\net9.0\ref\Exercicio1.dll
